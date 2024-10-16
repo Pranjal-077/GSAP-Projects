@@ -1,0 +1,7 @@
+stagger - ek ek karke chalayega
+repeat- ajun ekda kara
+yoyo- yoyo toy sarkha
+
+scrollTigger: {
+  scrub: matlab scrolling ke hisab se animations
+}
